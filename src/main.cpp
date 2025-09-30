@@ -1,6 +1,9 @@
 #include  <iostream>
 #include    <string>
-int main()         {
+int main()         
+{
       std::string x;
- x = "Hello, World";
-         cout << x;}
+      x = "Hello, World";
+      std::cout << x;
+}
+
